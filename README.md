@@ -2,10 +2,10 @@
 
 **Group:** 3  
 **Members:**
-- IIB2024006
-- IIB2024014
-- IIB2024034
-- IIT2024215
+- Devansh Rai (IIB2024006)
+- Manas Singh (IIB2024014)
+- Jalendu Pandey (IIB2024034)
+- Shivam Mishra (IIT2024215)
 
 ---
 
