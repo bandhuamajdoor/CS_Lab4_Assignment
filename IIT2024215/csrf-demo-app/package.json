@@ -1,0 +1,1 @@
+{"dependencies":{"express":"^5.3.0"},"description":"GET-based CSRF demonstration and mitigation (IT-30001 Lab Assignment 4)","keywords":[],"main":"server.js","name":"csrf-demo-app","scripts":{"start":"node server.js"},"type":"commonjs","version":"1.0.0"}
